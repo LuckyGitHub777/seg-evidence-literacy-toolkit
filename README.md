@@ -1,5 +1,7 @@
 # SEG — Evidence Literacy Toolkit
 
+**Explore online:** [Open the public browser experience](https://luckygithub777.github.io/seg-evidence-literacy-toolkit/). An online interactive learning companion; the repository retains its original blank research templates and safety notices.
+
 An educational set of blank experiment-record templates and a [claim separation matrix](docs/Claim_Separation_Matrix.md) for distinguishing reported observations, conventional effects, hypotheses, and extraordinary claims.
 
 Use the [trial log](data/Trial_Log_Template.csv), [evidence manifest](data/evidence_manifest_template.csv) and [build record](templates/Build_Sheet_Template.md) to learn traceable documentation. Templates contain no experimental results or replicated measurements. The claim matrix **does not verify** excess energy, propulsion, weight changes, or any other extraordinary physical effect.
