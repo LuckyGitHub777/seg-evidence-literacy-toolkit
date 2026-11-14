@@ -6,4 +6,4 @@ Use the [trial log](data/Trial_Log_Template.csv), [evidence manifest](data/evide
 
 This source package contains **no hardware-control software or experiment instructions**. High voltage, rotating machinery and magnetic systems introduce serious risks; do not attempt experiments based on this educational material alone.
 
-**Licensing and attribution:** The existing [dual-license terms](LICENSE.md) are retained: CC BY 4.0 for the stated educational materials and MIT for code where applicable. [MANIFEST.sha256](MANIFEST.sha256) records source hashes.
+**Licensing and attribution:** The [dual-license terms](LICENSE.md) apply: CC BY 4.0 for the stated educational materials and MIT for code where applicable. [MANIFEST.sha256](MANIFEST.sha256) records source hashes.
